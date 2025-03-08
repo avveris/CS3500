@@ -223,6 +223,7 @@ The following strategies are defined below
 - Strategy3: Will try to play cards that won't be flipped.
 
 
+<img width="645" alt="Screenshot 2025-03-08 at 10 09 39 AM" src="https://github.com/user-attachments/assets/b9d22028-7492-4afd-8ed1-5c4bbe57d64d" />
 
                         
 
